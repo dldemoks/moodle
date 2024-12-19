@@ -1,8 +1,8 @@
-moodle
+Moodle
 ======
-Модуль оплаты Payeer
+Payment module Payeer
 
-Для установки модуля скачайте и распакуйте архив.
-Далее следуйте прилагаемой инструкции
+To install the module, download and unzip the archive.
+Then follow the attached instructions.
 
-Поддерживаемая версия CMS Moodle 2.7.x
+Support for CMS Moodle 2.7.x
